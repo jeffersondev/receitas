@@ -42,12 +42,21 @@
     "ingredientes": [],
     "modoPreparo": []
   },
-  {
-    "titulo": "",
+    {
+    "titulo": "Brigadeiro",
     "autor": "Mohamed",
-    "foto": "",
-    "ingredientes": [],
-    "modoPreparo": []
+    "foto": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.receitasnestle.com.br%2Freceitas%2Fbrigadeiro&psig=AOvVaw37POuiYqpxXQCZnxws04xG&ust=1599527106201000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPimxfjs1esCFQAAAAAdAAAAABAD",
+    "ingredientes": [
+      "1 caixa de leite condensado"
+    "1 colher (sopa) de margarina sem sal"
+    "7 colheres (sopa) de achocolatado ou 4 colheres (sopa) de chocolate em pó"
+    "chocolate granulado"
+  ],
+    "modoPreparo": [
+      "Em uma panela funda, acrescente o leite condensado, a margarina e o chocolate em pó."
+    "Cozinhe em fogo médio e mexa até que o brigadeiro comece a desgrudar da panela." 
+    "Deixe esfriar e faça pequenas bolas com a mão passando a massa no chocolate granulado."
+  ]
   },
   {
     "titulo": "",
