@@ -22,11 +22,23 @@
     ]
   },
   {
-    "titulo": "",
+    "titulo": "Bolo de milho",
     "autor": "Keisy",
-    "foto": "",
-    "ingredientes": [],
-    "modoPreparo": []
+    "foto": "https://www.receitadevovo.com.br/gbau/sistema/receitas/img/bolo-de-milho-verde.jpg",
+    "ingredientes": [
+      "2 1/2 xícaras de milho cru"
+      "2 1/2 xícaras de leite"
+      "1 colher (sopa) de margarina"
+      "4 ovos inteiros"
+      "1 xícara de açucar"
+      "1 colher (sopa) de fermento em pó"
+      "2 colhers de (sopa) do queijo parmesao"
+],
+    "modoPreparo": [
+      "1 Coloque todos os ingredientes no loquidificador e bata até que se forme uma mistura bem homogenea
+      "2 Unte uma forma de oco no meio e leve a massa para assar em formo bem quente até dourar
+      "3 Bom Apetite
+]
   },
   {
     "titulo": "",
@@ -99,3 +111,4 @@
   ]
   }
 ]
+
