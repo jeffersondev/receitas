@@ -11,3 +11,5 @@ Nesta atividade vocês precisaram fazer:
 - Fazer o commit e o push da sua branch para o github
 
 - Abrir um Pull Request da sua branch para a branch master
+
+Nova atualização
