@@ -73,9 +73,20 @@
   {
     "titulo": "pao",
     "autor": "Christians",
-    "foto": "https://images.app.goo.gl/zLuVppJRVBJFCNXm7",
-    "ingredientes": [ "farinha de trigo , leite, salt, ovo "],
-    "modoPreparo": [ "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ration",
-    "quae saepe debitis dolor est sapiente quia iusto temporibus beatae distinctio?"]
+    "foto": "https://www.cocinatis.com/media/photologue/photos/cache/recetas-hacer-pan-casero-facil-cuarentena_desktop_horizontal_full_width.jpg",
+    "ingredientes": [ 
+      "1kg de farinha", 
+      "50g de fermento",
+      " 200g Margarina",
+      "2 colheres de sopa de óleo",
+      "1 cdts Azúcar",
+      "Sal 10g",
+      "2 xícaras de água morna"
+      ],
+    "modoPreparo": [ 
+    "Em uma tigela coloque a farinha, o fermento e a gordura misturando tudo, depois adicione o óleo e o açúcar e continue misturando",
+    " Em seguida, adicione a água e o sal e misture tudo amassando. Deixe a massa descansar por 20 minutos.",
+    "Depois de descansar, dê à massa a forma desejada e leve ao forno a 200º por aproximadamente 40 minutos."
+  ]
   }
 ]
